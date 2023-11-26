@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a student at Tech Elevator currently working on improving my coding skills.
+Still learning the basics of coding, but I have a basic understanding of Python, Java, and JavaScript. 
+I'm very excited to continue making stuff and to build more complex projects. 
