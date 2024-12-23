@@ -1,5 +1,13 @@
 ## Welcome to my GitHub!
 
-I’m Beau Blevins, a passionate software developer with a strong focus on solving problems. My journey began with self-study in Python, and I have since developed full-stack applications that tackle real-world challenges. Whether it's streamlining communication in the veterinary field or creating tools to optimize business processes, I enjoy building projects that have a tangible impact.
+Hi, I’m Beau Blevins! I’m a creative and driven software developer who loves solving real-world problems with code. I started out teaching myself Python, and since then, I’ve built full-stack applications designed to make life easier and processes more efficient.  
 
-Feel free to explore my work, including projects like VetRA, a veterinary record-keeping system, Date Stamp, a custom solution for enhancing practice management software, and SuperSearch, a regex based text search tool. I’m always looking for new opportunities to learn and grow, and I’m excited to share my coding projects with you.
+From improving communication in veterinary medicine to creating tools that streamline everyday tasks, I focus on building projects that deliver real impact.  
+
+Check out some of my work:  
+- **VetRA** (PostgreSQL/Java/Spring Boot/Vue.js): A patient portal for pet parents and their veterinarians.  
+- **Date Stamp** (JavaScript/Chrome Extension APIs): A browser extension developed for Companion Animal Hospital to add functionality to their practice management software.  
+- **Kennel Map** (PostgreSQL/Supabase/Vue.js): An application developed for Companion Animal Hospital to help streamline kennel processes.
+- **DailyPlate** (PostgreSQL/Supabase/React.js): A food tracking application focused on balanced nutrition.
+
+I’m always learning, improving, and looking for ways to grow. Thanks for stopping by—I hope you enjoy exploring my projects!
